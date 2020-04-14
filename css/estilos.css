@@ -28,8 +28,13 @@ body {
     font-size: 0.8em;
 }
 
+#paisaje {
+    width: 50%;
+    align-content: center;
+}
+
 #container {
-    width: 70%;
+    width: 85%;
     padding: 0;
     text-align: left;
     border: 1px solid #ddd;
