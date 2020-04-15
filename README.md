@@ -7,5 +7,6 @@ Esto es una practica del Curso de Platzi de Git y Github, en donde se puede cono
 - Comandos básicos de Git.
 - Flujo de trabajo de GitHub.
 - Buenas prácticas.
+- Creado por el increible Platzi Team
 
 El readme.md presentado tambien representa parte de la práctica y conocimiento del curso, el cual está diseñado como ejemplo para el alumno.
